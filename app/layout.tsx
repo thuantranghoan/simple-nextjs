@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Simple Next.js App",
-  description: "A simple Next.js project",
+  title: "Simple Next.js App - Modern & Beautiful",
+  description: "A beautiful, modern Next.js project built with React 18, TypeScript, and Tailwind CSS. Features responsive design, animations, and glassmorphism effects.",
 };
 
 export default function RootLayout({
